@@ -3,26 +3,24 @@
 ## Overview
 
 Welcome to the Codra open-source organization, a collection of open-source
-projects developed by Codra.
+projects developed by [Codra](https://codra.net/).
 
-Codra, known for its long-standing expertise in software publishing,
-has also been active for several years in the open-source community,
-particularly in the field of data processing and visualization.
+Codra is a French software company founded in 1986. It is a major player
+in the field of industrial automation, data acquisition and scientific data
+processing. Its software solutions are used in many sectors of activity:
+energy, transport, scientific research, defense, etc.
 
-The choice of open-source software is straightforward. This collaborative
-model makes the technology accessible to all. With no licensing costs,
-it is open to all stakeholders and across all technical domains.
+Besides its flagship product, [Panorama Suite](https://codra.net/en/software-offering/scada-platform/panorama-suite-software/),
+Codra also develops specific software solutions for its customers, in
+the following fields:
 
-Codra is committed to the open-source community by providing its expertise
-and resources to develop and maintain open-source projects.
+- Supervisory Control And Data Acquisition
+- Technical Data Management and Information Systems
+- Scientific Data Processing and Visualization
 
-## Projects
-
-The table below summarizes the projects included in the Codra open-source
-organization:
-
-- [CodraFT](https://github.com/Codra-Ingenierie-Informatique/CodraFT): The Codra Filtering Tool, an open-source Signal and Image Processing Software
-- [PyPlanning](https://github.com/Codra-Ingenierie-Informatique/PyPlanning): Small planning tool to manage team schedules and to quickly create simple project plannings
+Codra is also engaged in the development of open-source software by
+providing its expertise and resources to develop and maintain open-source
+projects.
 
 ## Other organizations
 
